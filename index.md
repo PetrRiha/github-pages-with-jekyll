@@ -1,5 +1,4 @@
 ---
-title: "Welcome to my blog"
+Remote test management
 ---
-
-I'm glad you are here. I plan to talk about ...
+Quality matters
